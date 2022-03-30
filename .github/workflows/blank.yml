@@ -12,4 +12,4 @@ jobs:
      
      steps:
       - name: sample-run
-        run: echo Hi
+        run: echo Hi hello
